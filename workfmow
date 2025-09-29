@@ -1,0 +1,3 @@
+git add .github/workflows/release-apk.yml
+git commit -m "ci: release APK workflow"
+git push origin main
